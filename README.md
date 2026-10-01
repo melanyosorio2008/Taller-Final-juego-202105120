@@ -1,7 +1,7 @@
 # Taller-Final-juego-202105120
 En este proyecto quiero crear un videojuego para la consola dirigido a niños y niñas de 8 a 12 años. Mi idea es que el jugador viva una aventura donde tenga que superar niveles, derrotar enemigos, conseguir premios y recoger objetos para completar el juego.
 
-##FASE 1: REQUERIMIENTOS
+# FASE 1: REQUERIMIENTOS
 Funcionales: Son las funciones que el videojuego debe realizar. 
 El juego debe permitir iniciar una nueva partida. 
 El jugador debe controlar un personaje principal. 
@@ -15,10 +15,10 @@ El juego debe funcionar sin errores o bloqueos durante la partida.
 Los gráficos deben ser coloridos y atractivos. 
 Los controles deben responder de forma rápida y precisa.
 
-#FASE 2: ANÁLISIS
+# FASE 2: ANÁLISIS
 Hacer un juego divertido y fácil de entender, donde el jugador pueda aprender a pensar, tomar decisiones y resolver pequeños desafíos.
 
-"FASE 3: DISEÑO (diagrama de flujo)
+# FASE 3: DISEÑO (diagrama de flujo)
 [ INICIO]
     │
     ▼
@@ -81,11 +81,11 @@ Hacer un juego divertido y fácil de entender, donde el jugador pueda aprender a
 
                                                                  [   Mundo y Avanzar     ]          el mundo salvado!)[cite: 1]
                                                                  
-#FASE 4: DESARROLLO SEGUN DIGRAMA DE FLUJO
+# FASE 4: DESARROLLO SEGUN DIGRAMA DE FLUJO
 El código constituye una excelente base arquitectónica para un prototipo de juego educativo o RPG de consola en Python. Aporta una estructura lógica modular que puede expandirse fácilmente agregando un sistema de combate turnado o integrando el inventario dinámico utilizando las clases ya definidas.
 
-#FASE 5: CÓDIGO
+# FASE 5: CÓDIGO
 El programa pasa de ser un borrador conceptual a un RPG de consola funcional en Python, adecuadamente estructurado mediante programación orientada a objetos y preparado para ser jugado de principio a fin.
 
-#FASE 6: CREACION DE GITHUB
+# FASE 6: CREACION DE GITHUB
 creamos nuestra cuenta y nuestro repositorio donde subimos todos los documentos
